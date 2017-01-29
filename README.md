@@ -16,3 +16,6 @@ https://github.com/01org/corelibs-arduino101/releases/download/2.0.0/flashpack_b
 https://github.com/01org/intel-arduino-tools/releases/tag/1.8.0%2B1.29-windows
 ### CurieBLE: corelibs-arduino101-2.0.0
 https://github.com/01org/corelibs-arduino101/releases/tag/2.0.0
+
+### Adafruit NeoPixel Library
+https://github.com/adafruit/Adafruit_NeoPixel
